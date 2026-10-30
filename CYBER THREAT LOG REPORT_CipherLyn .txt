@@ -1,0 +1,51 @@
+
+===== CYBER THREAT LOG REPORT =====
+Name: Cherilyn C. Lamadora
+Handle: CipherLyn
+Start Time: 2026-10-30 19:46:59.679385
+End Time: 2026-10-30 19:48:35.686460
+Duration (minutes): 1.60
+Score: 10/10
+Rating: EXPERT
+---- Threat Logs ----
+Threat: FTP Credential Sniffing
+ALERT: Failed login attempt detected from 192.168.1.208 on port
+ALERT: Possible brute force attempt detected
+-------------------
+Threat: SSH Brute Force Attack
+ALERT: Failed login attempt detected from 192.168.1.247 on port
+CRITICAL: Ransomware activity suspected via
+-------------------
+Threat: Telnet Credential Theft
+ALERT: Possible brute force attempt detected
+ALERT: Failed login attempt detected from 192.168.1.77 on port
+-------------------
+Threat: MySQL Data Theft
+WARNING: Multiple authentication failures for service
+ALERT: Possible brute force attempt detected
+-------------------
+Threat: HTTP Web Exploit
+CRITICAL: Ransomware activity suspected via
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: SMB Ransomware Attack
+WARNING: Multiple authentication failures for service
+CRITICAL: Ransomware activity suspected via
+-------------------
+Threat: SMTP Phishing Campaign
+ALERT: Possible brute force attempt detected
+ALERT: Failed login attempt detected from 192.168.1.51 on port
+-------------------
+Threat: DNS Amplification DDoS
+ALERT: Possible brute force attempt detected
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: HTTPS Web Exploit
+NOTICE: Suspicious traffic pattern detected targeting port 
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: RDP Brute Force Attack
+ALERT: Possible brute force attempt detected
+ALERT: Possible brute force attempt detected
+-------------------
+===================================
