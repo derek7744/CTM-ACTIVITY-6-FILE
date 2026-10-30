@@ -1,60 +1,51 @@
-===== CYBER THREAT LOG REPORT =====
-Name: 
-Handle:
-Start Time: 
-End Time: 
-Duration (minutes): 
-Score: 
-Rating: 
 
+===== CYBER THREAT LOG REPORT =====
+Name: Jeremiah Ezekiel E. Lopena
+Handle: phpMyYang
+Start Time: 2026-10-30 11:58:05.370920
+End Time: 2026-10-30 11:59:25.449792
+Duration (minutes): 1.33
+Score: 10/10
+Rating: EXPERT
 ---- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: SMTP Phishing Campaign
+ALERT: Failed login attempt detected from 192.168.1.48 on port
+ALERT: Failed login attempt detected from 192.168.1.231 on port
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: HTTP Web Exploit
+CRITICAL: Ransomware activity suspected via
+WARNING: Multiple authentication failures for service
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: SSH Brute Force Attack
+CRITICAL: Ransomware activity suspected via
+ALERT: Failed login attempt detected from 192.168.1.212 on port
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: HTTPS Web Exploit
+ALERT: Failed login attempt detected from 192.168.1.45 on port
+NOTICE: Suspicious traffic pattern detected targeting port 
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: DNS Amplification DDoS
+ALERT: Failed login attempt detected from 192.168.1.67 on port
+NOTICE: Suspicious traffic pattern detected targeting port 
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: Telnet Credential Theft
+ALERT: Possible brute force attempt detected
+CRITICAL: Ransomware activity suspected via
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: SMB Ransomware Attack
+ALERT: Failed login attempt detected from 192.168.1.131 on port
+NOTICE: Suspicious traffic pattern detected targeting port 
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: MySQL Data Theft
+NOTICE: Suspicious traffic pattern detected targeting port 
+ALERT: Failed login attempt detected from 192.168.1.96 on port
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: Proxy Web Exploit
+ALERT: Failed login attempt detected from 192.168.1.249 on port
+WARNING: Multiple authentication failures for service
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: RDP Brute Force Attack
+CRITICAL: Ransomware activity suspected via
+ALERT: Failed login attempt detected from 192.168.1.248 on port
 -------------------
 ===================================
