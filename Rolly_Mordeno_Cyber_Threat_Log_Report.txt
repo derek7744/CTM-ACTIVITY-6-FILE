@@ -1,0 +1,50 @@
+===== CYBER THREAT LOG REPORT =====
+Name: Rolly B. Mordeno
+Handle: RyCore18
+Start Time: 2026-10-30 19:43:52.432052
+End Time: 2026-10-30 19:45:40.415450
+Duration (minutes): 1.80
+Score: 9/10
+Rating: ADVANCED
+---- Threat Logs ----
+Threat: Telnet Credential Theft
+ALERT: Possible brute force attempt detected
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: SMTP Phishing Campaign
+ALERT: Possible brute force attempt detected
+ALERT: Failed login attempt detected from 192.168.1.37 on port
+-------------------
+Threat: SMB Ransomware Attack
+NOTICE: Suspicious traffic pattern detected targeting port 
+CRITICAL: Ransomware activity suspected via
+-------------------
+Threat: HTTP Web Exploit
+CRITICAL: Ransomware activity suspected via
+ALERT: Failed login attempt detected from 192.168.1.231 on port
+-------------------
+Threat: SSH Brute Force Attack
+ALERT: Possible brute force attempt detected
+CRITICAL: Ransomware activity suspected via
+-------------------
+Threat: HTTPS Web Exploit
+CRITICAL: Ransomware activity suspected via
+ALERT: Possible brute force attempt detected
+-------------------
+Threat: RDP Brute Force Attack
+ALERT: Possible brute force attempt detected
+CRITICAL: Ransomware activity suspected via
+-------------------
+Threat: MySQL Data Theft
+ALERT: Failed login attempt detected from 192.168.1.97 on port
+ALERT: Failed login attempt detected from 192.168.1.91 on port
+-------------------
+Threat: FTP Credential Sniffing
+WARNING: Multiple authentication failures for service
+ALERT: Failed login attempt detected from 192.168.1.247 on port
+-------------------
+Threat: Proxy Web Exploit
+CRITICAL: Ransomware activity suspected via
+NOTICE: Suspicious traffic pattern detected targeting port 
+-------------------
+===================================
